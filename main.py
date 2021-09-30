@@ -1,3 +1,4 @@
+#Group Project, Coded by Cory, story by partner #
 print('Interactive Story')
 # Loop Code #
 for x in " 5 4 3 2 1 Go ":

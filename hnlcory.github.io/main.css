@@ -1,0 +1,40 @@
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;                        
+  overflow: hidden;
+  background-color: #D3D3D3; /*Move Nav bar color*/
+  background="628209.jpg">
+  margin-bottom: 100px;
+}
+
+li {
+  float: right; /*Move Nav bar right*/
+}
+li a {
+  display: block;  
+  color: black;
+  text-align: center;
+  padding: 14px 16px; /*Area around nav bar text*/
+  text-decoration: none;
+    font-family: monospace; /*Nav text font*/
+cursor: url("/Minecraft.cur"), auto;
+}
+li a:hover {
+  background-color: #808080; /*color when hovering over nav buttons*/
+}
+
+.cities {
+  background-color: lightgray;  /*Index page temp colors*/
+  color: Black;   /*Index page text color*/
+  margin: 20px;
+  padding: 20px;
+font-family: monospace;
+    cursor: url("/Minecraft.cur"), auto; /*Cool Cursor*/
+}
+}
+
+ul.posts li {
+    list-style: none;
+}
